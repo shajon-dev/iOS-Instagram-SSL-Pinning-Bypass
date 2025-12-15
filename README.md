@@ -9,7 +9,7 @@
 <table border="0">
   <tr>
     <td>
-      <img src="https://raw.githubusercontent.com/SHAJON-404/iOS-Instagram-SSL-Pinning-Bypass/refs/heads/main/asstes/insta.jpg" alt="headers" width="300">
+      <img src="https://raw.githubusercontent.com/shajon-dev/iOS-Instagram-SSL-Pinning-Bypass/refs/heads/main/asstes/insta.jpg" alt="headers" width="300">
     </td>
     <td>
       <p align="center">
